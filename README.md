@@ -23,6 +23,7 @@ The denominated taxonomy table can then be imported into R for *phyloseq* object
 
 Please cite this tool as follows:
 
+<sub> _Citation coming soon to a screen near you_ </sub>
 
 We hope this helps! :)
 
@@ -31,4 +32,6 @@ We hope this helps! :)
 
 <sub>This tool was originally developed for the MSc (Human Genetics) thesis of Lauren C. Martin, conducted in the Stellenbosch University Neuropsychiatric Genetics research group, entitled "Species-level profiling of the maternal vaginal bacteriome using full-length 16S rRNA amplicon sequencing with application to FASD".</sub>
 
-<sub> Application of this tool features in **Short-read full-length 16S rRNA amplicon sequencing for characterisation of the respiratory bacteriome of captive and free-ranging African elephants (_Loxodonta africana_)**</sub>
+<sub> Application of this tool features in **Short-read full-length 16S rRNA amplicon sequencing for characterisation of the respiratory bacteriome of captive and free-ranging African elephants (_Loxodonta africana_)**.</sub>
+
+<sub> **Developed by Déan Nell.** </sub>
